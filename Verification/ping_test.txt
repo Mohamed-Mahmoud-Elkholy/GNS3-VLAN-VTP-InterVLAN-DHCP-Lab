@@ -1,0 +1,25 @@
+PC1> dhcp
+DDORA IP 192.168.0.139/25 GW 192.168.0.129
+
+PC1> ping 192.168.0.11
+
+84 bytes from 192.168.0.11 icmp_seq=1 ttl=63 time=29.157 ms
+84 bytes from 192.168.0.11 icmp_seq=2 ttl=63 time=14.465 ms
+84 bytes from 192.168.0.11 icmp_seq=3 ttl=63 time=15.930 ms
+84 bytes from 192.168.0.11 icmp_seq=4 ttl=63 time=23.714 ms
+84 bytes from 192.168.0.11 icmp_seq=5 ttl=63 time=24.702 ms
+
+PC4> dhcp
+DDORA IP 192.168.4.11/25 GW 192.168.4.1
+
+PC4> save
+Saving startup configuration to startup.vpc
+.  done
+
+PC4> ping 192.168.4.139
+
+84 bytes from 192.168.4.139 icmp_seq=1 ttl=63 time=31.962 ms
+84 bytes from 192.168.4.139 icmp_seq=2 ttl=63 time=16.062 ms
+84 bytes from 192.168.4.139 icmp_seq=3 ttl=63 time=18.935 ms
+84 bytes from 192.168.4.139 icmp_seq=4 ttl=63 time=17.222 ms
+84 bytes from 192.168.4.139 icmp_seq=5 ttl=63 time=15.879 ms

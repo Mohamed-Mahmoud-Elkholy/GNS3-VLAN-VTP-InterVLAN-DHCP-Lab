@@ -1,0 +1,17 @@
+VTP Version capable             : 1 to 3
+VTP version running             : 1
+VTP Domain Name                 : Elkholy
+VTP Pruning Mode                : Disabled
+VTP Traps Generation            : Disabled
+Device ID                       : aabb.cc80.0300
+Configuration last modified by 0.0.0.0 at 6-4-26 03:19:55
+Local updater ID is 0.0.0.0 (no valid interface found)
+
+Feature VLAN:
+--------------
+VTP Operating Mode                : Server
+Maximum VLANs supported locally   : 1005
+Number of existing VLANs          : 11
+Configuration Revision            : 7
+MD5 digest                        : 0xAE 0x77 0x40 0x98 0xFF 0x61 0x68 0x72
+                                    0xB1 0x84 0xEF 0x84 0xFE 0xAC 0x2D 0xB2

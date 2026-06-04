@@ -1,0 +1,8 @@
+Bindings from all pools not associated with VRF:
+IP address          Client-ID/              Lease expiration        Type
+                    Hardware address/
+                    User name
+192.168.0.11        0100.5079.6668.01       Jun 05 2026 02:57 AM    Automatic
+192.168.0.139       0100.5079.6668.00       Jun 05 2026 02:57 AM    Automatic
+192.168.4.11        0100.5079.6668.03       Jun 05 2026 02:57 AM    Automatic
+192.168.4.139       0100.5079.6668.02       Jun 05 2026 02:57 AM    Automatic
